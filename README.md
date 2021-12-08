@@ -3,4 +3,4 @@
 ## -> Consigna:
 
 - Crear un servidor con Nest.
-_ Crear CRUD local.
+- Crear CRUD local.
