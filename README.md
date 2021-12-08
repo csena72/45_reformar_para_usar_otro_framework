@@ -1,1 +1,6 @@
-# 45_reformar_para_usar_otro_framework
+# Desafío #45: Reformar para usar otro framework
+
+## -> Consigna:
+
+- Crear un servidor con Nest.
+_ Crear CRUD local.
